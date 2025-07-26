@@ -1,0 +1,14 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is CC30-EAC6
+
+ Directory of C:\Users\leoxi\Downloads\proj-secondhand
+
+26/07/2025  03:38 pm    <DIR>          .
+26/07/2025  03:26 pm    <DIR>          ..
+26/07/2025  03:36 pm    <DIR>          .git
+26/07/2025  03:38 pm                 0 a.txt
+26/07/2025  03:36 pm                31 README.md
+26/07/2025  03:38 pm    <DIR>          secondhand-client
+26/07/2025  03:30 pm    <DIR>          secondhand-services
+               2 File(s)             31 bytes
+               5 Dir(s)  53,120,376,832 bytes free
